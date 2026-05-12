@@ -95,3 +95,9 @@ The backend exposes a fully RESTful API on `http://localhost:8080`.
 - A single member cannot have more than **3 active issues** at any given time.
 - Returning a book automatically makes it available again for other members.
 
+## 🤝 Contributions
+
+- **Member 1 (Backend Models and Repositories)**: Kiran Kumar
+- **Member 2 (Backend APIs & Services)**: Jaswanth Kumar
+- **Member 3 (Frontend UI & Styling)**: Nihanth Manikanta
+- **Member 4 (Frontend Integration and API Calls)**: Devasish
